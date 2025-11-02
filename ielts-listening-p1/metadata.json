@@ -1,0 +1,5 @@
+{
+  "name": "IELTS Listening Practice",
+  "description": "An interactive IELTS listening practice test application that allows users to listen to an audio recording, answer questions, and check their results against the script.",
+  "requestFramePermissions": []
+}
